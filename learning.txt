@@ -1,1 +1,9 @@
-Experienced professional with a strong background in hospitality industry 
+This week, I learned the basics of shell programming, including writing simple scripts, using commands, and working with variables and loops. I found it interesting to see how shell scripts can automate tasks and make work more efficient.
+
+I worked on activities like creating basic scripts, navigating directories, and using conditionals in the terminal. These tasks helped me understand how the shell interacts with the system and improved my problem-solving skills.
+
+One challenge I faced was remembering the correct syntax and commands, especially when working with loops and conditional statements. However, with practice and reviewing examples, I became more confident and made fewer errors.
+
+I really enjoyed testing the scripts and seeing how they worked in real time. It felt rewarding to create something that performed a task automatically. I realized I need to keep practicing to fully understand more advanced commands and script writing.
+
+Overall, shell programming gave me useful skills I can apply in tech-related fields. I plan to keep learning and improving my scripting abilities in future projects.
